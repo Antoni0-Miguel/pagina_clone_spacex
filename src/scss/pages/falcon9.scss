@@ -1,0 +1,245 @@
+.falcon9-navbar-logo {
+  width: 250px;
+}
+
+.falcon9-container1 {
+  background-image: url(../../images/background5.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.falcon9-navbar-link {
+  text-decoration: none;
+  color: white;
+  margin: 5px;
+  font-size: 12px;
+
+  &:hover {
+    color: white;
+  }
+}
+
+.falcon9-container-text1 {
+  text-align: center;
+  padding-top: 180px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+// CARROSEL1
+.carrossel01 {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/carrosel1-1.jpg);
+}
+
+.carrossel02 {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/carrosel1-2.jpg);
+}
+
+.carrossel03 {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/carrosel1-3.jpg);
+}
+
+.carrossel04 {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/carrosel1-4.jpg);
+}
+
+.carrossel05 {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/carrosel1-5.jpg);
+}
+
+.container07 {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/background7.jpg);
+}
+
+.titleFalcon9 {
+  font-size: 90px;
+  font-family: "Rubik", sans-serif;
+  font-weight: 514;
+}
+
+.titleContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.carrosselSlide {
+  img {
+    height: 100vh;
+  }
+}
+
+.carousselText {
+  background-color: black;
+}
+
+.numbers {
+  background-color: black;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h1 {
+    font-size: 90px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+}
+
+.containerFalcon9Desc {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#overViewPosition {
+  width: 500px;
+  margin-left: 13%;
+  padding-top: 15%;
+}
+
+.falcon9Desc {
+  font-size: 22px;
+  width: 640px;
+  line-height: 50px;
+}
+.carousselText {
+  background-color: black;
+}
+
+.numbers {
+  background-color: black;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h1 {
+    font-size: 90px;
+  }
+
+  p {
+    font-size: 20px;
+  }
+}
+
+.containerFalcon9Desc {
+  display: flex;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#overViewPosition {
+  width: 500px;
+  margin-left: 13%;
+  padding-top: 15%;
+}
+
+.falcon9Desc {
+  font-size: 22px;
+  width: 640px;
+  line-height: 50px;
+}
+
+.falcon9-container2 {
+  background-image: url(../../images/background6.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.falcon9-container-text2 {
+  padding-top: 200px;
+  padding-right: 450px;
+  font-size: 24px;
+  text-align: left;
+}
+
+.falcon9-lista {
+  background-color: transparent;
+}
+
+.falcon9-container3 {
+  background-image: url(../../images/background7.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.falcon9-container-text3 {
+  padding-top: 200px;
+  padding-right: 450px;
+  font-size: 24px;
+  text-align: left;
+}
+
+.falcon9-image {
+  height: 100vh;
+  width: 100%;
+}
+
+.falcon9-paragraph {
+  background-color: black;
+}
+
+.falcon9-container4 {
+  background-color: black;
+}
+
+.falcon9-content-container4 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.falcon9-container-text4 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.falcon9-container-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.falcon9-footer {
+  min-height: 80px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.falcon9-paragraph {
+  color: whitesmoke;
+}

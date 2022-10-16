@@ -1,0 +1,75 @@
+.home-navbar-logo {
+  width: 250px;
+}
+
+.home-container1 {
+  background-image: url(../../images/background1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.home-navbar-link {
+  text-decoration: none;
+  color: white;
+  margin: 5px;
+  font-size: 12px;
+
+  &:hover {
+    color: white;
+  }
+}
+
+.home-container-text1 {
+  padding-top: 100px;
+}
+
+.home-seta-p-baixo {
+  width: 100px;
+  cursor: pointer;
+}
+
+.home-container2 {
+  background-image: url(../../images/background2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.home-container-text2 {
+  padding-top: 200px;
+}
+
+.home-container3 {
+  background-image: url(../../images/background3.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.home-container-text3 {
+  padding-top: 200px;
+}
+
+.home-container4 {
+  background-image: url(../../images/background4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.home-container-text4 {
+  padding-top: 200px;
+}
+
+.home-footer {
+  min-height: 80px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-paragraph {
+  color: whitesmoke;
+}

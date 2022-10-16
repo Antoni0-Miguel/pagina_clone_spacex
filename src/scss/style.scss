@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+}
+
+@import "./pages/home.scss";
+@import "./pages/falcon9.scss";
+@import "./pages/humanspaceflight.scss";
